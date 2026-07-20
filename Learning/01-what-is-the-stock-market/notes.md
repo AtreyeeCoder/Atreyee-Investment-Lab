@@ -44,3 +44,48 @@ Overall, I currently think the stock market connects companies that need money w
 
 **7.** Investors make money if they sell their shares for more than they paid, and lose money if they sell for less.
 
+
+
+
+# What is a company?
+
+A company is a business.
+
+Let's say I start a company called **Atreyee Robotics**.
+
+I want to build medical robots, but I need money for:
+
+- Employees
+- Equiptment
+- Research
+- Manufacturing
+- Offices
+- Factories
+- Software, etc.
+
+I have 3 options to pay for all of this :
+
+1. Use my own money
+2. Borrow money (Loan from a bank)
+3. Find investors.
+
+Suppose I divide my company into **1,000 pieces of ownership**.
+
+Each piece is called a **share**.
+
+If someone owns:
+
+**$$\frac{100}{1,000}$$**
+
+$$\frac{Shares}{TotalShares}$$
+
+they own **10%** of the company.
+
+**A share represents a proportional ownership interest in a company.**
+
+A **company** is a legally recognized business that issues **shares of ownership (stock)** to the public to raise capital.
+
+
+
+
+
